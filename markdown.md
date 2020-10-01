@@ -6,7 +6,7 @@
 Full sharing among coders means the exchange of source code, which enables others to see the instructions behind the software and improve upon that. Avid hackers, like Stallman, are willing to work in a community where source codes can be freely shared (including some even more private information like emails), but companies do not want to do so. They want the software they develop to be lucrative and thus have to keep the source codes secret so that their competitors can not develop a similar or better version of the software or the games. 
 
 ### P2
-Stallman’s four freedom
+
 1.	The users can execute the program in whatever way they want and for whatever purpose. 
 2.	Users can freely access the source code and make modifications to it according to their own will. 
 3.	Users can make copies of the source code and give or sell that to others if they want to. 
